@@ -58,7 +58,7 @@ const Editor = {
     this.$fetchBtn.onclick = async () => {
       localStorage.url = this.$input.value
       this.$status.innerText = '同步中...'
-      let res = await (await fetch('https://api.jirengu.com/api/github/raw?url='+this.$input.value)).json()
+      let res = await (await fetch(this.$input.value)).json()
       if(res.errCode !== 0) {
         this.$status.innerText = '同步失败，可多试几次'
       } else {

@@ -5,15 +5,12 @@ let text = `
 ![](https://imgs.xiedaimala.com/LIjzPBygsVKz98q2eojsADUuyrxX1fUz/%25E9%25A5%25A5%25E4%25BA%25BA%25E8%25B0%25B7%2520logo.png)   <!-- .element: style="height:100px; " --> 
 
 
-*若愚@饥人谷*
-
-
 ## 为什么关注优先级 
 
 \`\`\`html [7-9|11-13|15-18]
 <div id="app">
   <div class="header">
-    <p class="user">饥人谷</p>
+    <p class="user">卓谷科技</p>
   </div>
 </div> 
 <style>
@@ -75,7 +72,7 @@ a链接的<yellow>颜色</yellow>是什么？为什么
   }
  </style>
 <div class="box">
-  <a href="#">饥人谷</a>
+  <a href="#">卓谷科技</a>
 </div>
 \`\`\` 
 
@@ -90,7 +87,7 @@ a链接的<yellow>颜色</yellow>是什么？为什么
   }
  </style>
 <div class="box">
-  <a href="#">饥人谷</a>
+  <a href="#">卓谷科技</a>
 </div>
 \`\`\`
 ![](https://imgs.xiedaimala.com/s54CKVIhDkPDdjCVVEkaw9KAFzrzhBV6/WX20230104-163156%402x.png)   <!-- .element: style="height:200px" --> 
@@ -130,7 +127,7 @@ a链接的<yellow>颜色</yellow>是什么？为什么
   }
 </style>
 <div class="box">
-  <p  style="color: yellow;">饥人谷</p>
+  <p  style="color: yellow;">卓谷科技</p>
 </div>
 \`\`\`
  
@@ -152,14 +149,14 @@ a链接的<yellow>颜色</yellow>是什么？为什么
   }
 </style>
 <div class="box">
-  <p  style="color: yellow;">饥人谷</p>
+  <p  style="color: yellow;">卓谷科技</p>
 </div>
 \`\`\`
 
 ![](https://imgs.xiedaimala.com/QX2cB2w92WCtYJQrhKsvItshnz5YvlEJ/WX20230104-170804%402x.png)<!-- .element: style="height:200px;margin-top:20%;" -->
 
 # 更多
-- 项目作者：若愚@饥人谷 [知乎](https://www.zhihu.com/people/jirengu-ruo-yu)
+- 项目作者：若愚@卓谷科技 [知乎](https://www.zhihu.com/people/jirengu-ruo-yu)
 - 本项目基于 [revealjs](https://revealjs.com/) 开发
 - 本项目[源码地址](https://github.com/jirengu/new-oneslide)
 
